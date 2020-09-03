@@ -1,7 +1,0 @@
-EN ESTA VERSION SE AÑADIERON LOS SIGUIENTES COMPLEMENTOS
-
-.mejoras de rendimiento en la consola
-.Hen enable OASIS-STORE mod 
-.Traduccion al español de los complementos de hfw
-.juegos usa con descargas en segundo plano 
-.Bluetooth headset pro-mod (mejora la compatibilidad de audifonos Bluetooth en la consola )
